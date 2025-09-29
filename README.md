@@ -2,7 +2,7 @@
 
 As a student living with friends, I quickly noticed how messy shared expenses can get. One day I would cover groceries, the next someone else would pay for takeout, and another roommate would pick up cleaning supplies. Individually these amounts are small, but they add up fast. We found ourselves constantly doing mental math in group chats and sending redundant $3 or $5 e-transfers back and forth. It was both inefficient and frustrating.
 
-This project was my attempt to translate my frustration for this everyday problem into a tangible solution. I built a  expense-splitting tool that records who paid for what, calculates balances automatically, and suggests the minimum number of transfers needed to settle up. 
+This project was my attempt to translate my frustration for this everyday problem into a tangible solution. I built an  expense-splitting tool that records who paid for what, calculates balances automatically, and suggests the minimum number of transfers needed to settle up. 
 
 ## Core Features Include...
 
